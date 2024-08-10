@@ -1,0 +1,25 @@
+# Node modules directory
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build output
+dist/
+build/
+
+
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+jspm_packages/
+
+# NPM package-lock file (optional, you might want to commit it)
+package-lock.json
